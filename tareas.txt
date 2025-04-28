@@ -1,3 +1,5 @@
 1 realizar actividad	
 2 ir de pezca
 3 pasear 
+4 ir a playa
+5 bañarme
